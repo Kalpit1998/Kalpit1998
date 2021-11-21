@@ -12,13 +12,13 @@
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/Kalpit1998?tab=repositories)**
 
 - 📫 How to reach me **kalpitme@gmail.com**
 
 - 📫 Contact me on **7000158129/8516015674**
 
-<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
+- ⚡ Fun fact **I love to listen music very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -61,11 +61,20 @@
 <br/>
 <br/>
 
+<!-- Latest Blogs on medium  -->
+
+## <img src="https://img.icons8.com/external-itim2101-flat-itim2101/30/000000/external-blog-smartphone-technology-itim2101-flat-itim2101.png"/> Latest blog posts:
+<ul>
+    <li><a style="text-decoration: none;" href="https://medium.com/@kalpitme/cloning-of-nykaa-com-a-functional-and-visual-clone-58d180208500" target="_blank">Cloaning of Nykaa.com | A functional & Visual Clone</a></li>
+    <li ><a style="text-decoration: none;" href="https://medium.com/@kalpitme/cloning-americaneagle-com-a-little-functional-and-more-visual-clone-75e0e28aba41" target = "_blank">Cloning AmericanEagle.com : A little functional and more visual clone.</a></li>
+</ul>
+
 ## Connect with me:
 <p align="left">
 
-<a href = "http://www.linkedin.com/in/kalpit-sharma1998"><img style="margin-bottom:2px;" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://medium.com/@kalpitme"><img style="background-color:white; border-radius:5px;margin-bottom:8px;height:32px" src="https://img.icons8.com/fluent/48/000000/medium-logo.png"/></a>
+<a href = "http://www.linkedin.com/in/kalpit-sharma1998" target="_blank"><img style="margin-bottom:2px;" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://medium.com/@kalpitme" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/medium-logo.png"/></a>
+<a href = "https://github.com/Kalpit1998" target="_blank"><img src="https://img.icons8.com/ios-filled/48/000000/github.png"/></a>
 
 </p>
 
