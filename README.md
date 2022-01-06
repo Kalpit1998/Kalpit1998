@@ -75,6 +75,7 @@
 <a href = "http://www.linkedin.com/in/kalpit-sharma1998" target="_blank"><img style="margin-bottom:2px;" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://medium.com/@kalpitme" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/medium-logo.png"/></a>
 <a href = "https://github.com/Kalpit1998" target="_blank"><img src="https://img.icons8.com/ios-filled/48/000000/github.png"/></a>
+<a href = "https://kalpit.dorik.io/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/domain.png"/></a>
 
 </p>
 
