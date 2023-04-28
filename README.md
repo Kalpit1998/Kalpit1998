@@ -28,7 +28,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://react.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react.js" width="45" height="45 /> </a>
+    <a href="https://react.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="45" height="45" /> </a>
     <a style="padding-right:8px;" href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a> 
     <a style="padding-right:10px;" href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="48" height="48"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48"/> </a> 
@@ -36,8 +36,9 @@
     <a style="padding-right:8px;" href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>  
     <a style="padding-right:8px;" href="https://www.elastic.co/kibana/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" width="45" height="45"/> </a>
     <a style="padding-right:8px;" href="https://contentsquare.com/" target="_blank"> <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/Contentsquare.svg" alt="Contentsquare" width="45" height="45"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="45" height="45"/> </a>
-    <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg" alt="redux" width="45" height="50"/> </a>
+    <a style="padding-right:8px;" href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg" alt="redux" width="45" height="45"/> </a>
+    <a style="padding-right:8px;" href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="45" height="45"/> </a>
+<!--     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  -->
     <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
 </p>
 
@@ -63,7 +64,7 @@
 <br/>
 
 <!-- <a href="https://github.com/kalpit1998/github-readme-activity-graph"><img alt="Kalpit Sharma Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kalpit1998&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-[![Kalpit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kalpit1998&theme=dracula)](https://github.com/Kalpit1998/github-readme-activity-graph)
+[![Kalpit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kalpit1998&theme=react-dark)](https://github.com/Kalpit1998/github-readme-activity-graph)
 
 <br/>
 <br/>
