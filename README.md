@@ -64,7 +64,7 @@
 <br/>
 
 <!-- <a href="https://github.com/kalpit1998/github-readme-activity-graph"><img alt="Kalpit Sharma Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kalpit1998&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-[![Kalpit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kalpit1998&theme=react-dark)](https://github.com/Kalpit1998/github-readme-activity-graph)
+[![Kalpit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalpit1998&theme=react)](https://github.com/Kalpit1998/github-readme-activity-graph)
 
 <br/>
 <br/>
