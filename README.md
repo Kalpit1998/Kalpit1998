@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working in **Globallogic, India**
+- 🔭 I’m currently working in **Globallogic, India** as Software Engineer
 
 <!-- - 🌱 I’m currently learning **Full Stack Web Development (MERN) at Masai School.** -->
 
